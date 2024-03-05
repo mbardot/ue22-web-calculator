@@ -1,5 +1,7 @@
 # ue22-web-calculator
 
+Author: MB
+
 This assignement is part of ue22 web course at Les Mines de Paris, Licence CC BY-NC-ND Thierry Parmentelat.
 
 It comes [**with the html and css template**](https://codepen.io/zellwk/pen/pLgmGL) for a nice yet simple, calculator.
